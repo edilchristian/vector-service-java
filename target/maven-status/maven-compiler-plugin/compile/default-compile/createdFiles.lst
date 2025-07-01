@@ -1,0 +1,5 @@
+com/example/vectorservice/VectorServiceApplication.class
+com/example/vectorservice/controller/EmbeddingController.class
+com/example/vectorservice/service/EmbeddingService$1.class
+com/example/vectorservice/service/EmbeddingService.class
+com/example/vectorservice/model/EmbeddingResponse.class
