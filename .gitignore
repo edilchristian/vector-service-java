@@ -1,0 +1,8 @@
+# Ignore IDE config
+.vscode/
+
+# Ignore Maven build output
+target/
+
+# Optional: macOS and system files
+.DS_Store
